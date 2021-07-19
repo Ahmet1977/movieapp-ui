@@ -33,6 +33,6 @@ export default class Header extends Component {
           </Menu>
         </Visibility>
       </div>
-    );
+    ); 
   }
 }
